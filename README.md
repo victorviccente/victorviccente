@@ -19,4 +19,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   
 </div><br/>
 
+##Linguagens mais utiizadas
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={victorviccente}&theme=blue-green
+
 
