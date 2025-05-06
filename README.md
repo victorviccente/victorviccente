@@ -36,8 +36,3 @@ Estou sempre aberto a novas oportunidades de colaboração, networking e discuss
   <i>💡 "Tecnologia não é só programação."</i>
 </div>
 
----
-
-<div align="center">
-  <sub>Feito com ❤️ por Victor Vicente</sub>
-</div>
