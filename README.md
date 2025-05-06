@@ -9,7 +9,6 @@ Olá! Sou **Victor Vicente**, um desenvolvedor apaixonado por **tecnologia e edu
 ## Tecnologias & Habilidades 🛠️
 
 <div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +16,6 @@ Olá! Sou **Victor Vicente**, um desenvolvedor apaixonado por **tecnologia e edu
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 </div>
 
 ## Estatísticas GitHub 📊
@@ -27,11 +25,6 @@ Olá! Sou **Victor Vicente**, um desenvolvedor apaixonado por **tecnologia e edu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorviccente&theme=tokyonight&layout=compact" />
 </div>
 
-## Filosofia 💭
-
-<div align="center">
-  <h3>"O"</h3>
-</div>
 
 ## Vamos Conectar! 📬
 
