@@ -1,12 +1,12 @@
-# Victor Vicente | Desenvolvedor de Software 👨‍💻
+# Victor Vicente | Desenvolvedor de Software 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-vicente-44093415a/)
 
-## Sobre mim ✨
+## Sobre mim 
 
 Olá! Sou **Victor Vicente**, um desenvolvedor apaixonado por **tecnologia e educação**. Acredito no poder transformador da programação para criar soluções inovadoras e tornar o mundo digital mais acessível a todos.
 
-## Tecnologias & Habilidades 🛠️
+## Tecnologias & Habilidades 
 
 <div align="center">
   
@@ -20,7 +20,7 @@ Olá! Sou **Victor Vicente**, um desenvolvedor apaixonado por **tecnologia e edu
 
 </div>
 
-## Estatísticas GitHub 📊
+## Estatísticas GitHub 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorviccente&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
@@ -28,7 +28,7 @@ Olá! Sou **Victor Vicente**, um desenvolvedor apaixonado por **tecnologia e edu
 </div>
 
 
-## Vamos Conectar! 📬
+## Vamos Conectar! 
 
 Estou sempre aberto a novas oportunidades de colaboração, networking e discussões sobre tecnologia. Se você tem um projeto interessante ou apenas quer trocar ideias, não hesite em entrar em contato!
 
